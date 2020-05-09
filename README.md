@@ -10,14 +10,14 @@ Paste the code into a program of arduino.
 Plug in your Arduino with the following connections. (refer Connection.doc)
 
 # Component Required
-a.Components Required
-b.Arduino UNO
-c.HC-SR04 Ultrasonic Sensor Module  
-d.TowerPro SG90 Servo Motor  
-e.Connecting Wires 
-f.5V Power Supply  
-g.A small dustbin with hinged lid  
-h.Miscellaneous (glue, plastic tube, etc.)
+a. Components Required
+b. Arduino UNO
+c. HC-SR04 Ultrasonic Sensor Module  
+d. TowerPro SG90 Servo Motor  
+e. Connecting Wires 
+f. 5V Power Supply  
+g. A small dustbin with hinged lid  
+h. Miscellaneous (glue, plastic tube, etc.)
 
 # Working
 After setting up the Smart Dustbin and making all the necessary connections, upload the code to Arduino and provide 5V power supply to the circuit. Once the system is powered ON, Arduino keeps monitoring for any object near the Ultrasonic Sensor.
